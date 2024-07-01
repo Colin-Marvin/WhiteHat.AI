@@ -14,5 +14,5 @@ app.use(cors());
 app.use(express.json());
 
 app.listen(port, () => {
-  console.log(`IX blogging app listening on port ${port}`);
+  console.log(`WhiteHat web app listening on port ${port}`);
 });
